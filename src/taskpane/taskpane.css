@@ -67,6 +67,7 @@
  
 .ms-Button.ms-Button--hero .ms-Button-label {
   color: #0078d7;
+  cursor: pointer;
 }
 
 .ms-Button.ms-Button--hero:hover .ms-Button-label,
@@ -77,4 +78,8 @@
 
 b {
     font-weight: bold;
+}
+
+.result {
+    text-align: start;
 }

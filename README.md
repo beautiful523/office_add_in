@@ -23,6 +23,7 @@ $ npm i
 
 # 业务逻辑
 目录 src/taskpane  
+使用Word JavaScript API判断文档的第一个词是否加粗，第二个词是否有下划线，以及获取第三个词的字号。 
 
 # 代码侧运行
 $ npm run start  
